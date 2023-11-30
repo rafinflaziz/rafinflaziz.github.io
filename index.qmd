@@ -1,0 +1,15 @@
+---
+title: "Welcome!"
+---
+
+Hey there👋! Welcome to my corner of the internet—a space where I pour my thoughts, interests, and concerns. 
+
+### My Digital Sanctuary
+Here, you'll find an array of data analysis and machine learning projects. While I'm venturing into the data industry without prior experience, this platform can be viewed as a portfolio of mine, illustrating my capabilities and what I've achieved so far.
+
+However, this site isn't just a portfolio; it's my sanctuary, a collection of my mind's wanderings. From data projects to my regular contemplative writing, this space captures my journey of exploration and discovery.
+
+### Let's Connect
+Curious to know more about me? Connect through my social media and let's spark conversations that go beyond the typical.
+
+If you're intrigued and seeking a data enthusiast for your team, feel free to reach me out [here](https://www.linkedin.com/in/rafinflaziz/).

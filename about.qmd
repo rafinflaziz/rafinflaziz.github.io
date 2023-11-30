@@ -1,0 +1,19 @@
+---
+title: "About"
+image: profpic.png
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/rafinflaziz
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/rafinflaziz/
+    - icon: github
+      text: Github
+      href: https://github.com/rafinflaziz
+
+---
+
+About this blog
