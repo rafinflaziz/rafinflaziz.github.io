@@ -1,6 +1,6 @@
 [
   {
-    "listing": "/listing.html",
+    "listing": "/posts/index.html",
     "items": [
       "/posts/youtube_analysis/youtube_analysis.html",
       "/posts/youtube_scraping/youtube_scraping.html",
